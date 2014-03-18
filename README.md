@@ -15,7 +15,7 @@ Paste me into the description of your pull request to add some test tickboxes
 
 
 
-###### Device compatitiblity
+###### Device compatiblity
 - [ ] iPhone 5
 - [ ] iPhone 4S
 - [ ] iPad (retina)
