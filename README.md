@@ -20,4 +20,6 @@ Paste me into the description of your pull request to add some test tickboxes
 - [ ] iPhone 4S
 - [ ] iPad (retina)
 - [ ] iPad (non-retina)
+- [ ] S3 Jellybean (4.1.2)
 - [ ] Nexus 7
+
