@@ -2,7 +2,7 @@ qa-templates
 ============
 Paste me into the description of your pull request to add some test tickboxes
 
-#### Test - Checklist
+#### QA Test - Checklist
 ---
 ###### Browser compatibility test (Desktop)
 - [ ] Chrome
