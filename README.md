@@ -8,18 +8,19 @@ Paste me into the description of your pull request to add some test tickboxes
 - [ ] Chrome
 - [ ] Safari (OSX)
 - [ ] Firefox
+- [ ] Firefox (Win)
 - [ ] IE11
 - [ ] IE10 
 - [ ] IE9
 
-
-
-
-###### Device compatiblity
+###### Device compatibility
 - [ ] iPhone 5
 - [ ] iPhone 4S
 - [ ] iPad (retina)
-- [ ] iPad (non-retina)
 - [ ] S3 Jellybean (4.1.2)
 - [ ] Nexus 7
+
+###### Session state
+- [ ] Incognito (cleared cookies)
+
 
