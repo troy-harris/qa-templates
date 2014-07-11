@@ -14,7 +14,7 @@ Then paste me into the description of your pull request to add some test tickbox
 - [ ] IE10 
 - [ ] IE9
 
-###### Device compatibility
+###### Device compatibility (Mobile)
 - [ ] iPhone 5
 - [ ] iPhone 4S
 - [ ] iPad (retina)
