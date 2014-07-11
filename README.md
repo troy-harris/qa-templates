@@ -1,6 +1,7 @@
 qa-templates
 ============
-Paste me into the description of your pull request to add some test tickboxes
+Edit  this template https://github.com/troy-harris/qa-templates/edit/master/README.md
+Then paste me into the description of your pull request to add some test tickboxes
 
 #### QA Test - Checklist
 ---
